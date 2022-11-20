@@ -19,7 +19,6 @@ function HomePage (props) {
         })}
 
         <div id="bg-clicker" onClick={() => {
-            console.log("ping");
             setCurrentBackground((currentBackground+1) % backgrounds.length);
         }}></div>
     </div>

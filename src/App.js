@@ -8,7 +8,10 @@ function App() {
   
   return (
     <div className="App">
-      <Header/>
+      <Header
+        currentPage={currentPage}
+        setCurrentPage={setCurrentPage}
+      />
       {currentPage}
     </div>
   );
