@@ -1,7 +1,7 @@
 
 #header {
-    background-color: rgb(18, 18, 21);
-    height: 50px;
+    background-color: rgb(4, 4, 4);
+    height: 35px;
     width: 100vw;
     position: fixed;
     left: 0px;
@@ -9,6 +9,7 @@
     visibility: hidden;
     padding: 15px;
     font-weight: inherit;
+    border: 2px solid rgba(35, 35, 35);
 }
 
 @media (min-width: 1400px) {
@@ -18,23 +19,23 @@
 }
 
 #header-title-1{
-    font-size: 25px;
-    font-weight: 500;
-    position: relative;
-    top: -5px;
-    display: inline;
-    margin-right: 10px;
-    color:rgb(136, 139, 150);
-    font-family: cursive;
+    font-size: 20px;
+    font-weight: 900;
     font-style: italic;
+    position: relative;
+    top: -10px;
+    display: inline;
+    color: rgba(120, 120, 120);
+    margin-right: 10px;
+    font-family: cursive;
 }
 
 #header-title-2 {
-    font-size: 70px;
+    font-size: 60px;
     display: inline;
     font-weight: inherit;
     position: relative;
-    top: -5px;
+    top: -10px;
     
 }
 
@@ -49,7 +50,7 @@
     display: inline;
     list-style: none;
     float: right;
-    top: -10px;
+    top: -15px;
     position: relative;
     margin-right: 35px;
 }
@@ -60,10 +61,11 @@
 }
 
 .list-img {
-    height: 45px;
+    height: 40px;
     width: auto;
+    filter: brightness(15%);
 }
 
 .list-img:hover {
-    filter: contrast(0%) brightness(5%);
+    filter: brightness(60%);
 }

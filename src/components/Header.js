@@ -12,11 +12,11 @@ function Header (props) {
         <h1 id="header-title-1">the</h1>
         <h1 id="header-title-2">EL{<img id="header-logo" src={logo}/>}G</h1>
         <ul id="header-list">
-            <li><img class="list-img" src={tesla}/></li>
-            <li><img class="list-img" src={spaceX}/></li>
-            <li><img class="list-img" src={twitter}/></li>
-            <li><img class="list-img" src={boringComp}/></li>
-            <li><img class="list-img" src={neuralink}/></li>
+            <li><img className="list-img" src={tesla}/></li>
+            <li><img className="list-img" src={spaceX}/></li>
+            <li><img className="list-img" src={twitter}/></li>
+            <li><img className="list-img" src={boringComp}/></li>
+            <li><img className="list-img" src={neuralink}/></li>
         </ul>
     </div>
 }
