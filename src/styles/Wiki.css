@@ -1,0 +1,40 @@
+.wikiDiv {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 10px;
+    color: black;
+    font-size: 18px;
+    font-family: Times;
+    overflow: scroll;
+    border: 1px solid rgb(107, 168, 219);
+}
+
+.wikiTitle {
+    position: relative;
+    top: 5px;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.wikiDiv > hr {
+    position: relative;
+    top: -25px;
+    
+}
+
+.wikiParagraph {
+    position: relative;
+    top: -25px;
+    font-weight: 100;
+}
+
+.wikiImg {
+    height: 50px;
+    width: auto;
+    float: right;
+    position: relative;
+    top: -10px;
+}
+

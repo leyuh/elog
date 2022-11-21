@@ -23,3 +23,7 @@
 #home-page img.transparent {
     opacity:0;
 }
+
+#home-page {
+    padding: 0px;
+}
