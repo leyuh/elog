@@ -30,11 +30,11 @@ function Wiki (props) {
     }, [])
 
     return <div className="wikiDiv">
+        <img className="wikiImg" src={logo}/>
         <h3 className="wikiTitle">{eWikiPageTitle}</h3>
         <hr/>
         <p className="wikiParagraph">{wiki}</p>
         <a className="wikiLink" target="_blank" href={`https://en.wikipedia.org/wiki/${wikiPageTitle}`}>Read more</a>
-        <img className="wikiImg" src={logo}/>
     </div>
 }
 
