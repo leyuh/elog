@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/elog/static/css/main.e735560a.css",
+    "main.js": "/elog/static/js/main.a91822ae.js",
+    "static/media/background4.jpeg": "/elog/static/media/background4.bc4a12facda829abe8c7.jpeg",
+    "static/media/wikiLogo.png": "/elog/static/media/wikiLogo.3d29443642d5a71bb56f.png",
+    "static/media/background3.jpeg": "/elog/static/media/background3.176a5698b72d4c399673.jpeg",
+    "static/media/background6.jpeg": "/elog/static/media/background6.f4cd19b63978805958fd.jpeg",
+    "static/media/elon1.png": "/elog/static/media/elon1.35c6d13ba37b5f72c092.png",
+    "static/media/spaceX.png": "/elog/static/media/spaceX.815575372e9b312b4491.png",
+    "static/media/neuralink.png": "/elog/static/media/neuralink.2bf8d7949f7787cc20c0.png",
+    "static/media/tesla.png": "/elog/static/media/tesla.276d1b4b695e3ed4e4d7.png",
+    "static/media/twitter.png": "/elog/static/media/twitter.808c5b520e07866742ca.png",
+    "static/media/boringComp.png": "/elog/static/media/boringComp.c41cd923eae628f07b61.png",
+    "index.html": "/elog/index.html",
+    "main.e735560a.css.map": "/elog/static/css/main.e735560a.css.map",
+    "main.a91822ae.js.map": "/elog/static/js/main.a91822ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e735560a.css",
+    "static/js/main.a91822ae.js"
+  ]
+}
