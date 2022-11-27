@@ -10,6 +10,7 @@
     overflow: scroll;
     border: 1px solid rgb(107, 168, 219);
     border-radius: 10px;
+    position: absolute;
 }
 
 .wikiTitle {
